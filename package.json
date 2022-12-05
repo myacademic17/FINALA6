@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "client-sessions": "^0.8.0",
+    "git": "^0.1.5",
+    "mongoose": "^6.7.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "a6_humairashaikh",
+  "description": "��#\u0000 \u0000A\u00006\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "data-service-auth.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myacademic17/A6.git"
+  },
+  "author": "HumairaShaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myacademic17/A6/issues"
+  },
+  "homepage": "https://github.com/myacademic17/A6#readme"
+}
